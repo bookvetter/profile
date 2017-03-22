@@ -2,8 +2,9 @@
 
 body {
   color: #F7BC06;
-  background-image: url('images/art.jpg');
-  background-repeat: repeat-x;
+  background-image: url('images/backjungle.jpg');
+  background-size: cover;
+
   cursor: url('images/sniper.png'), auto;
 
 }
