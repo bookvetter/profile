@@ -1,0 +1,49 @@
+
+
+body {
+  color: #F7BC06;
+  background-color: #7CB26C;
+
+}
+
+h1, h2, h3, p {
+  font-family: 'Cabin', sans-serif;
+  color:000;
+}
+
+h1 {
+  color:#F7BC06;
+}
+
+.image-circle {
+  border-radius: 40%;
+}
+
+.div-style{
+  background-color: #FFDBC8;
+  padding: 30px 30px;
+  width: 500px;
+  margin:30px auto;
+  text-align: center;
+}
+
+
+
+.adventure-spacing, h3 {
+  padding: 5px 10px 5px 10px;
+  margin:4px;
+  color:#55CC32;
+}
+
+a:hover {
+    color: #9F9FB2;
+}
+
+.custom {
+   cursor:(images/cursor.png), auto;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
